@@ -1,0 +1,54 @@
+/* CALENDER */
+/* BODY  */
+body {
+  background-image: linear-gradient(
+    to right,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
+}
+/* CALENDER */
+.calendar {
+  background-color: crimson;
+  color: white;
+  border: 6px solid black;
+  text-align: center;
+  margin: 1px;
+}
+/* TABLE */
+table {
+  /* width: 24.85%; */
+  border: 6px solid crimson;
+  border-collapse: collapse;
+  border: 5px solid black;
+  margin: 1px;
+  float: left;
+  width: 33.18%;
+}
+/* TABLE TH */
+table th {
+  background-color: darkblue;
+  color: white;
+}
+/* TH, TD */
+th,
+td {
+  width: 0%;
+  border: 3px solid black;
+  padding: 2px;
+  text-align: center;
+  border-spacing: 20px;
+  background-color: Turquoise;
+}
